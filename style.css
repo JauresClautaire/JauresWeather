@@ -84,3 +84,21 @@ footer {
     margin-bottom: 0;
     margin-right: auto;
 }
+
+/* Styles pour les écrans jusqu'à 768px de large (tablettes, mobiles) */
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+  .sidebar {
+    display: none; /* Cacher la barre latérale sur petits écrans */
+  }
+}
+
+/* Styles pour les écrans plus larges que 1200px (grands écrans) */
+@media screen and (min-width: 1200px) {
+  body {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+}
