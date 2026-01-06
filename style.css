@@ -1,7 +1,15 @@
-body {
-    font-family: Arial, Arial, Helvetica, sans-serif;
-    background-color: bisque;
-}
+
+    body {
+        font-family: Arial, Arial, Helvetica, sans-serif;
+        background-image: url("image/fond.jpeg");
+        background-size: contain;        /* L’image couvre tout l’écran */
+        background-position: center;   /* Centrée */
+        background-repeat: no-repeat;  /* Pas de répétition */
+        background-color: black;
+        min-height: 100vh;
+        color: aqua;
+    }
+
 
 .container {
     max-width: 800px;
