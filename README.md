@@ -28,5 +28,3 @@ Ce projet est une application web simple qui permet aux utilisateurs d'obtenir l
 ## Auteur
 Jaures Clautaire Kanga
 
-## Licence
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails (si applicable).
